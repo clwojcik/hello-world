@@ -1,2 +1,3 @@
 # hello-world
 my very first git repository
+Hopefully this will help me figure out how this thingy works...
